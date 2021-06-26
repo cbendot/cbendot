@@ -2,5 +2,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
+<img src="https://komarev.com/ghpvc/?username=cbendot&style=flat-square" alt="cbendot" width="350" height="60" />
+
 
 ![sbwml's github stats](https://github-readme-stats.vercel.app/api?username=cbendot&show_icons=true&theme=dracula&count_private=true)

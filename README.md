@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=cbendot&style=flat-square" alt="cbendot" width="350" height="60" />
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben863&theme=radical&hide=makefile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben863&theme=dracula&hide=makefile" width="350" height="60" />
 
 
 ![sbwml's github stats](https://github-readme-stats.vercel.app/api?username=cbendot&show_icons=true&theme=dracula&count_private=true)

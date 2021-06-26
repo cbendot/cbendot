@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=cbendot&style=flat-square" alt="cbendot" width="350" height="60" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbendot&layout=compact)](https://github.com/cbendot/cbendot)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbendot&layout=compact&theme=dracula)](https://github.com/cbendot/cbendot)
 
 
 ![cbendot's github stats](https://github-readme-stats.vercel.app/api?username=cbendot&show_icons=true&theme=dracula&count_private=true)

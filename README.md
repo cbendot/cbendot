@@ -4,9 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=cbendot&style=flat-square" alt="cbendot" width="350" height="60" />
 
-<a href="https://github.com/cbendot/cbendot">
-<img src="https://github-readme-stats.vercel.app/top-langs/api?username=ben863&theme=dracula&show_icon=true" /> 
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![sbwml's github stats](https://github-readme-stats.vercel.app/api?username=cbendot&show_icons=true&theme=dracula&count_private=true)
+![cbendot's github stats](https://github-readme-stats.vercel.app/api?username=cbendot&show_icons=true&theme=dracula&count_private=true)
 

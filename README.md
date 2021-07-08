@@ -9,3 +9,5 @@
 
 ![cbendot's github stats](https://github-readme-stats.vercel.app/api?username=cbendot&show_icons=true&theme=dracula&count_private=true)
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+

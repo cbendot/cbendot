@@ -1,4 +1,4 @@
-<h1>Hi, I'm ben's<img align="left" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100"></h1>
+<h1>Hi, I'm ben's<img align="right" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="70" height="70"></h1>
 
 ![snake gif](https://github.com/iamLiquidX/iamLiquidX/raw/output/github-contribution-grid-snake.svg)
 

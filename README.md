@@ -6,5 +6,6 @@
 
 [![cbendot's github stats](https://github-readme-stats.vercel.app/api?username=cbendot)](https://github.com/cbendot)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/aa2616fbfea54ac4a8cf5fdc8978b0eb)](https://www.codacy.com/gh/cbendot/cbendot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cbendot/cbendot&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/aa2616fbfea54ac4a8cf5fdc8978b0eb)](https://www.codacy.com/gh/cbendot/cbendot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cbendot/cbendot&amp;utm_campaign=Badge_Grade)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 <img src="https://komarev.com/ghpvc/?username=cbendot&style=flat-square" alt="cbendot" />

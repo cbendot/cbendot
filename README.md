@@ -6,7 +6,7 @@
 
 ![snake gif](https://github.com/iamLiquidX/iamLiquidX/raw/output/github-contribution-grid-snake.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbendot](https://github.com/cbendot/cbendot)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/api?username=cbendot](https://github.com/cbendot/cbendot)
 
 [![cbendot's github stats](https://github-readme-stats.vercel.app/api?username=cbendot)](https://github.com/cbendot)
 

@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">Hi, I'm ben's</h1>
+<h1>Hi, I'm ben's</h1>
 
 ![snake gif](https://github.com/iamLiquidX/iamLiquidX/raw/output/github-contribution-grid-snake.svg)
 

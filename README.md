@@ -12,4 +12,6 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/aa2616fbfea54ac4a8cf5fdc8978b0eb)](https://www.codacy.com/gh/cbendot/cbendot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cbendot/cbendot&amp;utm_campaign=Badge_Grade) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&color=F66B0E)](http://github.com/cbendot) 
-[![Created Badge](https://badges.pufler.dev/created/cbendot/cbendot?color=0088ff)](https://cbendot.github.io)
+[![Created Badge](https://badges.pufler.dev/created/cbendot/cbendot?color=0088ff)](https://cbendot.github.io) <a href="https://github.com/cbendot/cbendot/LICENSE">
+    <img src="https://img.shields.io/github/license/cbendot/cbendot"/> 
+  </a>

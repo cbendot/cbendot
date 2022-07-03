@@ -4,7 +4,7 @@
 
 [![cbendot's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbendot&show_icons=true&theme=default)](https://github.com/cbendot)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cbendot)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cbendot)](https://github.com/cbendot)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbendot&layout=compact&theme=default)](https://github.com/cbendot)
 

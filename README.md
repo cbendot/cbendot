@@ -13,4 +13,5 @@
 [![Created Badge](https://badges.pufler.dev/created/cbendot/cbendot?color=00A8CC)](https://cbendot.github.io) ![GitHub top language](https://img.shields.io/github/languages/top/cbendot/kernel_asus_sdm660?color=orange) ![GitHub top language](https://img.shields.io/github/languages/top/cbendot/device_asus_sdm660-common?color=red) ![GitHub top language](https://img.shields.io/github/languages/top/cbendot/cbendot.github.io?color=yellow) ![GitHub top language](https://img.shields.io/github/languages/top/cbendot/ci-script?color=green) 
 
 <a href="https://github.com/cbendot/cbendot/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/cbendot/cbendot?color=red"> </a> ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcbendot.github.io) [![paypal.me/cbendot](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/cbendot)
+        <img src="https://img.shields.io/github/license/cbendot/cbendot?color=red" /> 
+</a> ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcbendot.github.io) [![paypal.me/cbendot](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/cbendot)

@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbendot&layout=compact&theme=default)](https://github.com/cbendot)
 
-![](https://raw.githubusercontent.com/cbendot/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/cbendot/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/cbendot/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <a href="https://github.com/cbendot"> <img src="https://komarev.com/ghpvc/?username=cbendot&style=flat"> </a> [![Codacy Badge](https://app.codacy.com/project/badge/Grade/aa2616fbfea54ac4a8cf5fdc8978b0eb)](https://www.codacy.com/gh/cbendot/cbendot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cbendot/cbendot&amp;utm_campaign=Badge_Grade) ![GitHub contributors](https://img.shields.io/github/contributors-anon/cbendot/kernel_asus_sdm660?color=pink) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cbendot/cbendot) [![Repos Badge](https://badges.pufler.dev/repos/cbendot?color=D4D925)](https://github.com/cbendot) 
 

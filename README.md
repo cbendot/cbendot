@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbendot&layout=compact&theme=default)](https://github.com/cbendot)
 
-<a href="http://www.github.com/cbendot"><img src="https://activity-graph.herokuapp.com/graph?username=cbendot&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/cbendot"><img src="https://activity-graph.herokuapp.com/graph?username=cbendot" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/cbendot"> <img src="https://komarev.com/ghpvc/?username=cbendot&style=flat"> </a> [![Codacy Badge](https://app.codacy.com/project/badge/Grade/aa2616fbfea54ac4a8cf5fdc8978b0eb)](https://www.codacy.com/gh/cbendot/cbendot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cbendot/cbendot&amp;utm_campaign=Badge_Grade) ![GitHub contributors](https://img.shields.io/github/contributors-anon/cbendot/kernel_asus_sdm660) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cbendot/cbendot)
      [![Repos Badge](https://badges.pufler.dev/repos/cbendot?color=D4D925)](https://github.com/cbendot) [![Created Badge](https://badges.pufler.dev/created/cbendot/cbendot?color=00A8CC)](https://cbendot.github.io) ![GitHub top language](https://img.shields.io/github/languages/top/cbendot/kernel_asus_sdm660?color=orange) ![GitHub top language](https://img.shields.io/github/languages/top/cbendot/device_asus_sdm660-common?color=red) ![GitHub top language](https://img.shields.io/github/languages/top/cbendot/cbendot.github.io?color=yellow) ![GitHub top language](https://img.shields.io/github/languages/top/cbendot/ci-script?color=green) <a href="https://github.com/cbendot/cbendot/blob/main/LICENSE">

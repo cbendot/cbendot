@@ -2,11 +2,7 @@
 
 ![snake gif](https://github.com/iamLiquidX/iamLiquidX/raw/output/github-contribution-grid-snake.svg)
 
-[![cbendot's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbendot&show_icons=true&theme=default)](https://github.com/cbendot)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cbendot)](https://github.com/cbendot)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbendot&layout=compact&theme=default)](https://github.com/cbendot)
+[![cbendot's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbendot&show_icons=true&theme=default)](https://github.com/cbendot) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cbendot)](https://github.com/cbendot)
 
 ![](https://raw.githubusercontent.com/cbendot/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/cbendot/github-stats/master/generated/languages.svg#gh-light-mode-only)
 

@@ -14,4 +14,4 @@
 
 <a href="https://github.com/cbendot/cbendot/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/cbendot/cbendot?color=red"> 
-</a> ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcbendot.github.io) [![paypal.me/cbednot](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/cbendot)
+</a> ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcbendot.github.io) [![paypal.me/cbendot](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/cbendot)

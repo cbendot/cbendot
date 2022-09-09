@@ -4,7 +4,6 @@
 
 ![](https://raw.githubusercontent.com/cbendot/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/cbendot/github-stats/master/generated/languages.svg#gh-light-mode-only) 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ac86db91ef90410cb1538cb0b5de385d)](https://app.codacy.com/gh/cbendot/cbendot?utm_source=github.com&utm_medium=referral&utm_content=cbendot/cbendot&utm_campaign=Badge_Grade_Settings)
 [![cbendot's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbendot&show_icons=true&theme=default)](https://github.com/cbendot) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cbendot)](https://github.com/cbendot) 
